@@ -1,0 +1,1 @@
+com.minventario.excepciones.TeoriaProbabilidadTotalException

@@ -1,0 +1,1 @@
+com.minventario.modelos.tablas.TablaProbabilidad
